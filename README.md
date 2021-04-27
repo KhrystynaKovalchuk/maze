@@ -7,3 +7,4 @@ maze = build_maze("mazefile.txt")
 maze.find_path()
 print(maze)
 ```
+![Image](https://github.com/KhrystynaKovalchuk/maze/blob/main/images/path_found.png)
